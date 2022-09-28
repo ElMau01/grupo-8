@@ -1,0 +1,102 @@
+{
+    "productos": [
+      {
+        "id":1,  
+        "nombre": "Cangreburguer Original",
+        "precio": "15.00",
+        "imagen": "img/original.jpg",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id":2,
+        "nombre": "Calamardo Especial",
+        "precio": "18.00",
+        "imagen": "img/Especial.jpg",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id":3,
+        "nombre": "Super Puff",
+        "precio": "20.00",
+        "imagen": "img/super.jpg",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id":4,
+        "nombre": "Manta Raya Doble",
+        "precio": "22.00",
+        "imagen": "img/Doble.jpg",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id":5,
+        "nombre": "Sirenoman XXL",
+        "precio": "20.00",
+        "imagen": "img/XXL.jpg",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id":6,
+        "nombre": "Johnny Yummi hawaina",
+        "precio": "15.00",
+        "imagen": "img/Hawaiana.jpg",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id":7,
+        "nombre": "Cangrejo Boss",
+        "precio": "25.00",
+        "imagen": "img/Cangrejo.jpg",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id":8,
+        "nombre": "Gary's Lollipop",
+        "precio": "7.00",
+        "imagen": "img/gary.jpeg",
+        "categoria": "Postres"
+      },
+      {
+        "id":9,
+        "nombre": "Perlita's Cookies",
+        "precio": "5.00",
+        "imagen": "img/Cookies.jfif",
+        "categoria": "Postres"
+      },
+      {
+        "id":10,
+        "nombre": "Arenita's Cheesecake",
+        "precio": "10.00",
+        "imagen": "img/CHEESECAKE.jpg",
+        "categoria": "Postres"
+      },
+      {
+        "id":11,
+        "nombre": "Limonada natural",
+        "precio": "4.00",
+        "imagen": "img/Limonada-natural.jpg",
+        "categoria": "Bebidas"
+      },
+      {
+        "id":12,
+        "nombre": "Limonada de mandarina",
+        "precio": "4.00",
+        "imagen": "img/jugo-mandarina.jpg",
+        "categoria": "Bebidas"
+      },
+      {
+        "id":13,
+        "nombre": "Coca Cola 250 ml",
+        "precio": "4.00",
+        "imagen": "img/coca-cola-250.jpg",
+        "categoria": "Bebidas"
+      },
+      {
+        "id":14,
+        "nombre": "Coca Cola 1.5 L",
+        "precio": "6.00",
+        "imagen": "img/Coca-cola-1.5.png",
+        "categoria": "Bebidas"
+      }
+    ]
+  }
