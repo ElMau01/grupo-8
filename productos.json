@@ -5,98 +5,112 @@
         "nombre": "Cangreburguer Original",
         "precio": "15.00",
         "imagen": "img/original.jpg",
-        "categoria": "Hamburguesas"
+        "categoria": "Hamburguesas",
+        "descripcion": "Pan artesanal con carne al carbón, queso y lechuga"
       },
       {
         "id":2,
         "nombre": "Calamardo Especial",
         "precio": "18.00",
         "imagen": "img/Especial.jpg",
-        "categoria": "Hamburguesas"
+        "categoria": "Hamburguesas",
+        "descripcion": "Pan artesanal con carne al carbón, toxineta, pepino, tomate verde y queso"
       },
       {
         "id":3,
         "nombre": "Super Puff",
         "precio": "20.00",
         "imagen": "img/super.jpg",
-        "categoria": "Hamburguesas"
+        "categoria": "Hamburguesas",
+        "descripcion": "Pan artesanal con carne combinada de cerdo y res al carbón, toxineta, queso y lechuga "
       },
       {
         "id":4,
         "nombre": "Manta Raya Doble",
         "precio": "22.00",
         "imagen": "img/Doble.jpg",
-        "categoria": "Hamburguesas"
+        "categoria": "Hamburguesas",
+        "descripcion": "Pan artesanal con doble carne de res al carbón, queso, lechuga y tomate"
       },
       {
         "id":5,
         "nombre": "Sirenoman XXL",
         "precio": "20.00",
         "imagen": "img/XXL.jpg",
-        "categoria": "Hamburguesas"
+        "categoria": "Hamburguesas",
+        "descripcion": "Pan artesanal con carne 250 gr al carbón, queso, doble toxineta, lechuga y tomate"
       },
       {
         "id":6,
         "nombre": "Johnny Yummi hawaina",
         "precio": "15.00",
         "imagen": "img/Hawaiana.jpg",
-        "categoria": "Hamburguesas"
+        "categoria": "Hamburguesas",
+        "descripcion": "Pan artesanal con carne al carbón, jamón, queso, piña asada y lechuga"
       },
       {
         "id":7,
         "nombre": "Cangrejo Boss",
         "precio": "25.00",
         "imagen": "img/Cangrejo.jpg",
-        "categoria": "Hamburguesas"
+        "categoria": "Hamburguesas",
+        "descripcion": "Pan artesanal con carne de cangrejo, tomate, aros de cebolla y queso"
       },
       {
         "id":8,
         "nombre": "Gary's Lollipop",
         "precio": "7.00",
         "imagen": "img/gary.jpeg",
-        "categoria": "Postres"
+        "categoria": "Postres",
+        "descripcion": "Helado con sabor a piruleta"
       },
       {
         "id":9,
         "nombre": "Perlita's Cookies",
         "precio": "5.00",
         "imagen": "img/Cookies.jfif",
-        "categoria": "Postres"
+        "categoria": "Postres",
+        "descripcion": "Galletas con chips de chocolate"
       },
       {
         "id":10,
         "nombre": "Arenita's Cheesecake",
         "precio": "10.00",
         "imagen": "img/CHEESECAKE.jpg",
-        "categoria": "Postres"
+        "categoria": "Postres",
+        "descripcion": "Chesecake de galleta con frutos rojos"
       },
       {
         "id":11,
         "nombre": "Limonada natural",
         "precio": "4.00",
         "imagen": "img/Limonada-natural.jpg",
-        "categoria": "Bebidas"
+        "categoria": "Bebidas",
+        "descripcion": "Limonada con limón"
       },
       {
         "id":12,
         "nombre": "Limonada de mandarina",
         "precio": "4.00",
         "imagen": "img/jugo-mandarina.jpg",
-        "categoria": "Bebidas"
+        "categoria": "Bebidas",
+        "descripcion": "Limonada de mandarina"
       },
       {
         "id":13,
         "nombre": "Coca Cola 250 ml",
         "precio": "4.00",
         "imagen": "img/coca-cola-250.jpg",
-        "categoria": "Bebidas"
+        "categoria": "Bebidas",
+        "descripcion": "Gaseosa tamaño personal"
       },
       {
         "id":14,
         "nombre": "Coca Cola 1.5 L",
         "precio": "6.00",
         "imagen": "img/Coca-cola-1.5.png",
-        "categoria": "Bebidas"
+        "categoria": "Bebidas",
+        "descripcion": "Gaseosa tamaño familiar"
       }
     ]
   }

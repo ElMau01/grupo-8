@@ -34,9 +34,7 @@ const obtenerProductos = async () => {
           </button>
           </div>
           <h3>Detalles del producto</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero minima delectus nulla voluptates
-              nesciunt
-              quidem laudantium, quisquam voluptas facilis dicta in explicabo, laboriosam ipsam suscipit!</p>
+          <p class="producto-descripcion">${producto.descripcion}</p>
       </div>
   </div>`;
   
